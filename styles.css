@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.space{
+    padding-left: 20px;
+}
+.bimg{
+   background-image: url('https://freshcart-frontend.netlify.app/assets/img/slider_img/slide-1.jpg');
+   background-size: cover;
+   height:500px;
+   padding:150px;
+}
