@@ -13,5 +13,6 @@ This is a simple frontend project for an online grocery store called *FreshCart*
 - Bootstrap
   
 ->This is a frontend-only project, created for learning.
+
 ##Live Demo
- https://nasar777.github.io/freshcart-homepage-clone/
+https://nasar777.github.io/freshcart-homepage-clone/
